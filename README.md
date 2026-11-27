@@ -18,3 +18,10 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-solitude-theme.gi
 
 #### Recommendations for 3rd-Party App Theming
 Using Bypass Theme-Hook script for GTK, Vesktop, Steam, Spotify etc [LINK](https://github.com/imbypass/omarchy-theme-hook)
+
+---
+
+## Credits
+
+This repository is a copy of [**HANCORE-linux/omarchy-solitude-theme**](https://github.com/HANCORE-linux/omarchy-solitude-theme), shared by [hassanahmed3286](https://github.com/hassanahmed3286) as part of the **VOIDLINE** portfolio.
+All original work © HANCORE, released under the MIT License — see `LICENSE`. The full original commit history is kept.
